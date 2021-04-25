@@ -1,2 +1,2 @@
-# lst_items
+# list_items
 A list of items 
